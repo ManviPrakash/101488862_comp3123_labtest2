@@ -78,6 +78,7 @@ Search Result
 Weather Card
 <img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/52bc00a4-cff7-410d-83f7-5f6d5b49568a" />
 
+<img width="951" height="1024" alt="image" src="https://github.com/user-attachments/assets/4cd829a3-7b2b-40d5-a5bd-d7667c1a5ee8" />
 
 5-Day Forecast
 <img width="795" height="190" alt="image" src="https://github.com/user-attachments/assets/03b42474-8ab5-4de7-bcc6-218e3dd75457" />
