@@ -17,7 +17,7 @@ This project demonstrates React state, props, components, and API integration wi
 
 📁 Project Setup
 1. Clone the Repo
-git clone https://github.com/YOUR_USERNAME/101488862_comp3123_labtest2
+git clone https://github.com/ManviPrakash/101488862_comp3123_labtest2
 cd 101488862_comp3123_labtest2
 
 2. Install Dependencies

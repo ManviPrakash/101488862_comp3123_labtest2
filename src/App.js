@@ -52,7 +52,7 @@ function App() {
     <div className="app">
       <div className="overlay">
         {/* Search Box */}
-        <div className="search-box">
+        <div className="search-bar">
           <input
             type="text"
             value={city}
