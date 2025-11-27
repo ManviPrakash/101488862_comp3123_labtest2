@@ -85,7 +85,10 @@ Postman API Response
 
 Deployment URL:
 
-[https://your-app-url.vercel.app/](https://lustrous-lolly-0e6b2d.netlify.app/)
+🚀 Deployment
+
+Live Demo (Netlify):
+https://lustrous-lolly-0e6b2d.netlify.app/
 
 
 👨‍💻 Author
