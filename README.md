@@ -56,6 +56,18 @@ These APIs return weather icon codes, temperature, pressure, humidity, and city 
 ✔ Clean component structure
 ✔ Themed background image
 
+🛠️ Technologies Used
+
+React.js
+
+JavaScript (ES6+)
+
+OpenWeatherMap API
+
+CSS (Glassmorphism UI)
+
+Netlify (Deployment)
+
 🖼️ Screenshots
 
 (Include the following in your submission docx)
