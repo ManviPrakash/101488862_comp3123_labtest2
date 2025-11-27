@@ -62,21 +62,30 @@ These APIs return weather icon codes, temperature, pressure, humidity, and city 
 
 Home Screen
 
+<img width="1923" height="974" alt="image" src="https://github.com/user-attachments/assets/42cb4b18-3cc0-4681-87c6-435d83095809" />
 Search Result
+<img width="1923" height="972" alt="image" src="https://github.com/user-attachments/assets/11fcb31c-0abb-48aa-8c3f-d408d8a9d029" />
 
 Weather Card
+<img width="1920" height="983" alt="image" src="https://github.com/user-attachments/assets/52bc00a4-cff7-410d-83f7-5f6d5b49568a" />
+
 
 5-Day Forecast
+<img width="795" height="190" alt="image" src="https://github.com/user-attachments/assets/03b42474-8ab5-4de7-bcc6-218e3dd75457" />
+
 
 Postman API Response
 
-🚀 Deployment
+<img width="975" height="518" alt="image" src="https://github.com/user-attachments/assets/7ee6fc0d-84f8-4803-a169-47368ff8493b" />
 
-Hosted using Vercel.
+<img width="975" height="516" alt="image" src="https://github.com/user-attachments/assets/1b290dd2-8509-4f81-8881-604e56d7249f" />
+
+
+🚀 Deployment
 
 Deployment URL:
 
-https://your-app-url.vercel.app/
+[https://your-app-url.vercel.app/](https://lustrous-lolly-0e6b2d.netlify.app/)
 
 
 👨‍💻 Author
